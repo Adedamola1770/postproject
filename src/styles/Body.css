@@ -1,0 +1,8 @@
+.back{
+    background-image: url('../assets/Rectangle 3.svg');
+    /* background-repeat: no-repeat; */
+    height: 616px;
+}
+.body{
+    padding-top: 200px;
+}

@@ -1,0 +1,32 @@
+.rectangle{
+        background-image: url('../assets/Rectangle.svg');
+        height: 514px;
+    }
+    .font{
+        font-size: 20px;
+    }
+    .button-1{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px; 
+    }
+    .user1{
+        width: 250px;
+        height: 60px;
+        font-size: 25px;
+        gap: 10px;
+    }
+
+
+
+
+
+
+
+    /* <style> 
+    .container { 
+        display: grid; 
+        grid-template-columns: repeat(4, 1fr); 
+        gap: 10px; 
+    } 
+</style>  */

@@ -1,0 +1,15 @@
+.get{
+    background-image: url('../assets/Section 1.svg');
+    height: 772px;
+   
+}
+.pt{
+    padding-top: 100px;
+}
+input{
+    border: none;
+    height: 40px;
+}
+.user{
+    font-size: 25px;
+}

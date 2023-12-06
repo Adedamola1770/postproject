@@ -1,0 +1,26 @@
+.rectangle2{
+    background-image: url('../assets/Rectangle.svg');
+    height: 514px;
+}
+
+.images-1{
+    
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px; 
+    
+}
+/* .img-1{
+    width: 381px;
+    height: 596px;
+    top: 671px;
+    left: 100px;
+    border-radius: 5px;
+
+} */
+/* 
+width: 381px
+height: 596px
+top: 671px
+left: 100px
+border-radius: 5px */

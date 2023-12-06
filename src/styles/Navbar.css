@@ -1,0 +1,16 @@
+.sign{
+    text-decoration: none;
+}
+.story{
+    text-decoration: none;
+}
+.link-color {
+    color: #000000;
+    text-decoration: none;
+}
+
+.link-color:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}

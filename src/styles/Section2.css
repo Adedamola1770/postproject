@@ -1,0 +1,17 @@
+.back2{
+    background-image: url('../assets/Rectangle 38.svg');
+    height: 250px;
+    /* width: 1242px; */
+    height: 250px;
+    top: 987px;
+    left: 90px;
+    margin-top: 90px;
+
+}
+.input{
+    height:35px;
+    border: none;
+}
+.para1{
+    font-size: 25px;
+}
